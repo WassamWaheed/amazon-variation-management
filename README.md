@@ -2,6 +2,16 @@
 
 A portfolio reference for planning and auditing Amazon parent/child listing structures.
 
+## Included Files
+- [Variation Audit Template](variation_audit_template.csv)
+- [Variation Validation Script](variation_check.py)
+
+## Run the Demo
+
+```bash
+python variation_check.py variation_audit_template.csv
+```
+
 ## Variation Planning Checklist
 - Confirm that the category supports the intended variation theme
 - Keep the parent SKU non-buyable
