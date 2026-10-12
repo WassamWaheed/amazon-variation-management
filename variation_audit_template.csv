@@ -1,0 +1,4 @@
+sku,parentage,parent_sku,color,size,variation_theme,qa_status
+DEMO-PARENT,parent,,,,SizeColor,Review
+DEMO-BLK-S,child,DEMO-PARENT,Black,Small,SizeColor,Review
+DEMO-BLK-M,child,DEMO-PARENT,Black,Medium,SizeColor,Review
